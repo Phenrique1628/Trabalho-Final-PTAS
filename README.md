@@ -7,11 +7,11 @@ São 5 rotas disponíveis: Uma para ler um modelo, para ler todos os modelos, pa
 um modelo. Alguns exemplos de requisições utilizadas são o GET, o POST, o PUT e o DELETE.
 
 Exemplos:
-Caso deseja ler todos os modelos, basta colocar a url(http://localhost:3222/carros) e ir em GET no Insomnia, se deseja ler 
-algum modelo em específico digitar (http://localhost:3222/carros/:id), esse id é o identificador do produto desejado. 
+Caso deseja ler todos os modelos, basta colocar a url(http://localhost:3224/carros) e ir em GET no Insomnia, se deseja ler 
+algum modelo em específico digitar (http://localhost:3224/carros/:id), esse id é o identificador do produto desejado. 
 
 
-Ou caso deseja adicionar outro modelo, basta ir em POST no Insomnia, colocar a url (http://localhost:3222/carros) e inserir no body com o 
+Ou caso deseja adicionar outro modelo, basta ir em POST no Insomnia, colocar a url (http://localhost:3224/carros) e inserir no body com o 
 texto do tipo JSON, um novo modelo, como por exemplo:
 {
 "modelo": "S10",

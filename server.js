@@ -17,6 +17,6 @@ mongoose.connect('mongodb://localhost:27017/Carros').then(()=>{
 
 
 
-app.listen(3222, () => {
+app.listen(3224, () => {
     console.log('Servidor Rodando!')
 });
