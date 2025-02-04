@@ -1,6 +1,6 @@
 O projeto consiste em simular um sistema de banco de dados da chevrollet, onde ele armazena os modelos, preços e promoções dos carros.
 
-A aplicação já roda automaticamente, qualquer informaçào que for alterada no código, o servidor irá se atualizar automaticamente, basta 
+A aplicação já roda automaticamente, qualquer informação que for alterada no código, o servidor irá se atualizar automaticamente, basta 
 utilizar npm start para executar o servidor.
 
 São 5 rotas disponíveis: Uma para ler um modelo, para ler todos os modelos, para atualizar um modelo, para criar um modelo e para deletar
